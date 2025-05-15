@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Lashapor/Lashapor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Lasha Porchkhidze. I specialize in D3.js for creating unique data visualizations.
+- Programming languages and libraries are never an issue—I love learning and continually improving.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on private repositories, which is why you won’t see many contributions on GitHub.
+- 🌱 I’m currently learning Three.js.
+- 📫 How to reach me: lashapor@gmail.com
+- 🌐 Some of my public projects: Lashapor.com
+- ⚡ Fun fact: I can’t share my real project experience publicly because of private contracts. 😄
+
+<br/>
+
+- Co-founder of the company https://vizionary.net
